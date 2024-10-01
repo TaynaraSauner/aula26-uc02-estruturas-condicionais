@@ -9,7 +9,7 @@ switch (comando.toLocaleLowerCase()) {
         elementoImagem.src = "./assets/ligada.png"
         break;
 
-    case "desligado":
+    case "desligar":
         elementoImagem.src = "./assets/desligada.png"
         break;
     default:
